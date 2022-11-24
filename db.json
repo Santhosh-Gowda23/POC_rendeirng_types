@@ -1,0 +1,4220 @@
+{
+  "products": [
+    {
+      "cacheId": "sp-8",
+      "id": "8",
+      "description": "",
+      "productName": "Colgate Junior",
+      "productReference": "",
+      "linkText": "colgate-junior",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-junior/p",
+      "categories": ["/Toothbrushes/Kids & Tweens/", "/Toothbrushes/"],
+      "categoryId": "38",
+      "categoriesIds": ["/5/38/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82
+        },
+        "listPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "Description",
+          "name": "Description",
+          "specifications": [
+            {
+              "originalName": "Quantity",
+              "name": "Quantity",
+              "values": ["50"]
+            }
+          ]
+        },
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "Quantity",
+              "name": "Quantity",
+              "values": ["50"]
+            },
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "138",
+          "name": "Sale"
+        },
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        }
+      ],
+      "clusterHighlights": [
+        {
+          "id": "138",
+          "name": "Sale"
+        }
+      ],
+      "properties": [
+        {
+          "name": "Quantity",
+          "originalName": "Quantity",
+          "values": ["50"]
+        },
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 82.68,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 82.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 82.68,
+                "ListPrice": 82.68,
+                "spotPrice": 82.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155410",
+              "cacheId": "155410",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155410/juniorbrush.jpg?v=1752687606"
+            }
+          ],
+          "itemId": "12",
+          "name": "Original",
+          "nameComplete": "Colgate Junior Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731011"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 82,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 82,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 82,
+                "ListPrice": 82,
+                "spotPrice": 82,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155410",
+              "cacheId": "155410",
+              "imageTag": "",
+              "imageLabel": "",
+              "imageText": "",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155410/juniorbrush.jpg?v=1752687606"
+            }
+          ],
+          "itemId": "13",
+          "name": "Imprinted",
+          "nameComplete": "Colgate Junior Imprinted",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731012"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-6",
+      "id": "6",
+      "description": "",
+      "productName": "Colgate® SlimSoft™ Ultra Compact Head",
+      "productReference": "",
+      "linkText": "colgate-slimsoft-ultra-compact-head",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-slimsoft-ultra-compact-head/p",
+      "categories": ["/Toothbrushes/Premium/", "/Toothbrushes/"],
+      "categoryId": "39",
+      "categoriesIds": ["/5/39/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 100.68,
+          "lowPrice": 100.68
+        },
+        "listPrice": {
+          "highPrice": 100.68,
+          "lowPrice": 100.68
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "138",
+          "name": "Sale"
+        },
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        }
+      ],
+      "clusterHighlights": [
+        {
+          "id": "138",
+          "name": "Sale"
+        }
+      ],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 100.68,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 100.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 100.68,
+                "ListPrice": 100.68,
+                "spotPrice": 100.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 100.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155409",
+              "cacheId": "155409",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155409/slimsoftultracompact.jpg?v=1752687604"
+            }
+          ],
+          "itemId": "8",
+          "name": "Original",
+          "nameComplete": "Colgate® SlimSoft™ Ultra Compact Head Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731092"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 100.68,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 0,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 0,
+                "ListPrice": 0,
+                "spotPrice": 0,
+                "taxPercentage": null,
+                "PriceWithoutDiscount": 0,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155409",
+              "cacheId": "155409",
+              "imageTag": "",
+              "imageLabel": "",
+              "imageText": "",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155409/slimsoftultracompact.jpg?v=1752687604"
+            }
+          ],
+          "itemId": "9",
+          "name": "Imprinted",
+          "nameComplete": "Colgate® SlimSoft™ Ultra Compact Head Imprinted",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731093"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-5",
+      "id": "5",
+      "description": "",
+      "productName": "Colgate® Wave™ Ultra-Compact Head",
+      "productReference": "",
+      "linkText": "colgate-wave-soft-ultra-compact-head",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-wave-soft-ultra-compact-head/p",
+      "categories": ["/Toothbrushes/By Bristle Type/", "/Toothbrushes/"],
+      "categoryId": "40",
+      "categoriesIds": ["/5/40/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82.68
+        },
+        "listPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82.68
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "137",
+          "name": "Best-Seller"
+        },
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        },
+        {
+          "id": "140",
+          "name": "More To Explore"
+        },
+        {
+          "id": "142",
+          "name": "Wave toothbrushes"
+        }
+      ],
+      "clusterHighlights": [
+        {
+          "id": "137",
+          "name": "Best-Seller"
+        }
+      ],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 82.68,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 82.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 82.68,
+                "ListPrice": 82.68,
+                "spotPrice": 82.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155407",
+              "cacheId": "155407",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155407/wavesoftultracompact.jpg?v=1755176173"
+            }
+          ],
+          "itemId": "6",
+          "name": "Original",
+          "nameComplete": "Colgate® Wave™ Ultra-Compact Head Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731065"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 82.68,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 82,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 82,
+                "ListPrice": 82,
+                "spotPrice": 82,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155408",
+              "cacheId": "155408",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155408/wavesoftultracompact.jpg?v=1755176173"
+            }
+          ],
+          "itemId": "7",
+          "name": "Imprinted",
+          "nameComplete": "Colgate® Wave™ Ultra-Compact Head Imprinted",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731064"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-7",
+      "id": "7",
+      "description": "",
+      "productName": "Colgate 360 Original",
+      "productReference": "",
+      "linkText": "colgate-360-original",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-360-original/p",
+      "categories": ["/Toothbrushes/Premium/", "/Toothbrushes/"],
+      "categoryId": "39",
+      "categoriesIds": ["/5/39/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 100.68,
+          "lowPrice": 100.68
+        },
+        "listPrice": {
+          "highPrice": 100.68,
+          "lowPrice": 100.68
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        },
+        {
+          "id": "140",
+          "name": "More To Explore"
+        },
+        {
+          "id": "141",
+          "name": "Frequently Searched"
+        },
+        {
+          "id": "142",
+          "name": "Wave toothbrushes"
+        }
+      ],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 50.34,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 100.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 100.68,
+                "ListPrice": 100.68,
+                "spotPrice": 50.34,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 100.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155402",
+              "cacheId": "155402",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155402/360.jpg?v=1755162402"
+            },
+            {
+              "imageId": "155482",
+              "cacheId": "155482",
+              "imageTag": "",
+              "imageLabel": "360o",
+              "imageText": "360o",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155482/360-o.png?v=1755162402"
+            }
+          ],
+          "itemId": "10",
+          "name": "Original",
+          "nameComplete": "Colgate 360 Original Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "CN05398A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 50.34,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 100.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 100.68,
+                "ListPrice": 100.68,
+                "spotPrice": 100.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 100.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155403",
+              "cacheId": "155403",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155403/360.jpg?v=1755162402"
+            },
+            {
+              "imageId": "155483",
+              "cacheId": "155483",
+              "imageTag": "",
+              "imageLabel": "360i",
+              "imageText": "360i",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155483/360-o.png?v=1755162402"
+            }
+          ],
+          "itemId": "11",
+          "name": "Imprinted",
+          "nameComplete": "Colgate 360 Original Imprinted",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731043"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-4",
+      "id": "4",
+      "description": "",
+      "productName": "Colgate Wave Soft Compact Head",
+      "productReference": "",
+      "linkText": "colgate-wave-soft-compact-head",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-wave-soft-compact-head/p",
+      "categories": ["/Toothbrushes/By Bristle Type/", "/Toothbrushes/"],
+      "categoryId": "40",
+      "categoriesIds": ["/5/40/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82.68
+        },
+        "listPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82.68
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        },
+        {
+          "id": "140",
+          "name": "More To Explore"
+        },
+        {
+          "id": "141",
+          "name": "Frequently Searched"
+        }
+      ],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 41.34,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 82.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 82.68,
+                "ListPrice": 82.68,
+                "spotPrice": 41.34,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155488",
+              "cacheId": "155488",
+              "imageTag": "",
+              "imageLabel": "first",
+              "imageText": "first",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155488/Colgate-Wave-Soft-Compact-Head-1.jpg?v=1755162775"
+            },
+            {
+              "imageId": "155489",
+              "cacheId": "155489",
+              "imageTag": "",
+              "imageLabel": "second",
+              "imageText": "second",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155489/Colgate-Wave-Soft-Compact-Head.jpg?v=1755162775"
+            }
+          ],
+          "itemId": "5",
+          "name": "Original",
+          "nameComplete": "Colgate Wave Soft Compact Head Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "CN06932A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1659398400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-10",
+      "id": "10",
+      "description": "",
+      "productName": "Colgate Total SF Clean Mint Paste (OCGP)",
+      "productReference": "",
+      "linkText": "colgate-total-sf-clean-mint-paste-ocgp",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-total-sf-clean-mint-paste-ocgp/p",
+      "categories": ["/More/Toothpaste/", "/More/"],
+      "categoryId": "3",
+      "categoriesIds": ["/1/3/", "/1/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 44.99,
+          "lowPrice": 9.09
+        },
+        "listPrice": {
+          "highPrice": 44.99,
+          "lowPrice": 9.09
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        },
+        {
+          "id": "140",
+          "name": "More To Explore"
+        }
+      ],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 44.99,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 44.99,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 44.99,
+                "ListPrice": 44.99,
+                "spotPrice": 44.99,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 44.99,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155405",
+              "cacheId": "155405",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155405/sfmint3.3.png?v=1752687603"
+            },
+            {
+              "imageId": "155406",
+              "cacheId": "155406",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155406/sfmint3.3.png?v=1752687603"
+            }
+          ],
+          "itemId": "17",
+          "name": "3.3 oz Tube",
+          "nameComplete": "Colgate Total SF Clean Mint Paste (OCGP) 3.3 oz Tube",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US05328A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 9.09,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 9.09,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 9.09,
+                "ListPrice": 9.09,
+                "spotPrice": 9.09,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 9.09,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155404",
+              "cacheId": "155404",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155404/sf-mint-paste.png?v=1752687603"
+            }
+          ],
+          "itemId": "16",
+          "name": ".88 oz Tube",
+          "nameComplete": "Colgate Total SF Clean Mint Paste (OCGP) .88 oz Tube",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US05298A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-11",
+      "id": "11",
+      "description": "",
+      "productName": "Colgate Optic White Professional At-home",
+      "productReference": "",
+      "linkText": "colgate-optic-white-professional-at-home",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-optic-white-professional-at-home/p",
+      "categories": [
+        "/Whitening/Take Home/Colgate® Optic White® Professional/",
+        "/Whitening/Take Home/",
+        "/Whitening/"
+      ],
+      "categoryId": "27",
+      "categoriesIds": ["/24/25/27/", "/24/25/", "/24/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 99.99,
+          "lowPrice": 99.99
+        },
+        "listPrice": {
+          "highPrice": 99.99,
+          "lowPrice": 99.99
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "Meta Data",
+          "name": "Meta Data",
+          "specifications": [
+            {
+              "originalName": "Unit Sold",
+              "name": "Unit Sold",
+              "values": ["4"]
+            },
+            {
+              "originalName": "Size",
+              "name": "Size",
+              "values": ["Full Kit (5-10 days)"]
+            }
+          ]
+        },
+        {
+          "originalName": "Description",
+          "name": "Description",
+          "specifications": [
+            {
+              "originalName": "Quantity",
+              "name": "Quantity",
+              "values": ["700"]
+            }
+          ]
+        },
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "Quantity",
+              "name": "Quantity",
+              "values": ["700"]
+            },
+            {
+              "originalName": "Unit Sold",
+              "name": "Unit Sold",
+              "values": ["4"]
+            },
+            {
+              "originalName": "Size",
+              "name": "Size",
+              "values": ["Full Kit (5-10 days)"]
+            },
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "Quantity",
+          "originalName": "Quantity",
+          "values": ["700"]
+        },
+        {
+          "name": "Unit Sold",
+          "originalName": "Unit Sold",
+          "values": ["4"]
+        },
+        {
+          "name": "Size",
+          "originalName": "Size",
+          "values": ["Full Kit (5-10 days)"]
+        },
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 99.99,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 99.99,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 99.99,
+                "ListPrice": 99.99,
+                "spotPrice": 99.99,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 99.99,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155412",
+              "cacheId": "155412",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155412/take-home-kit.jpg?v=1752687606"
+            }
+          ],
+          "itemId": "18",
+          "name": "Full Kit-10 Days",
+          "nameComplete": "Colgate Optic White Professional At-home Full Kit-10 Days",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US05200A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 99.99,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 90,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 90,
+                "ListPrice": 90,
+                "spotPrice": 90,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 90,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155412",
+              "cacheId": "155412",
+              "imageTag": "",
+              "imageLabel": "",
+              "imageText": "",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155412/take-home-kit.jpg?v=1752687606"
+            }
+          ],
+          "itemId": "39",
+          "name": "Colgate Optic White® Professional Take Home Kit 6%",
+          "nameComplete": "Colgate Optic White Professional At-home Colgate Optic White® Professional Take Home Kit 6%",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "61012561"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-44",
+      "id": "44",
+      "description": "",
+      "productName": "Peroxyl Antispetic Rinse",
+      "linkText": "peroxyl-antispetic-rinse",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/peroxyl-antispetic-rinse/p",
+      "categories": [
+        "/Fluoride & Oral Rinses/by Product/Colgate® Peroxyl Rinse/",
+        "/Fluoride & Oral Rinses/by Product/",
+        "/Fluoride & Oral Rinses/"
+      ],
+      "categoryId": "35",
+      "categoriesIds": ["/18/19/35/", "/18/19/", "/18/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 9.09,
+          "lowPrice": 9.09
+        },
+        "listPrice": {
+          "highPrice": 9.09,
+          "lowPrice": 9.09
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 9.09,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 9.09,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 9.09,
+                "ListPrice": 9.09,
+                "spotPrice": 9.09,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 9.09,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155472",
+              "cacheId": "155472",
+              "imageTag": "",
+              "imageLabel": "PeroxylAntispeticRinseom",
+              "imageText": "PeroxylAntispeticRinseom",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155472/Peroxyl-Antispetic-Rinse.png?v=1752687607"
+            }
+          ],
+          "itemId": "68",
+          "name": "Peroxyl Alcohol-Free Original Mint",
+          "nameComplete": "Peroxyl Antispetic Rinse Peroxyl Alcohol-Free Original Mint",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "732029"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 9.09,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 0,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 0,
+                "ListPrice": 0,
+                "spotPrice": 0,
+                "taxPercentage": null,
+                "PriceWithoutDiscount": 0,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155473",
+              "cacheId": "155473",
+              "imageTag": "",
+              "imageLabel": "PeroxylAntispeticRinseom2",
+              "imageText": "PeroxylAntispeticRinseom2",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155473/Peroxyl-Antispetic-Rinse.png?v=1752687607"
+            }
+          ],
+          "itemId": "69",
+          "name": "Peroxyl Alcohol-Free Original Mint",
+          "nameComplete": "Peroxyl Antispetic Rinse Peroxyl Alcohol-Free Original Mint",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US07381A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 9.09,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 0,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 0,
+                "ListPrice": 0,
+                "spotPrice": 0,
+                "taxPercentage": null,
+                "PriceWithoutDiscount": 0,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155474",
+              "cacheId": "155474",
+              "imageTag": "",
+              "imageLabel": "PeroxylAntispeticRinsemild",
+              "imageText": "PeroxylAntispeticRinsemild",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155474/Peroxyl-Antispetic-Rinse.png?v=1752687607"
+            }
+          ],
+          "itemId": "70",
+          "name": "Peroxyl Alcohol-Free Mild Mint",
+          "nameComplete": "Peroxyl Antispetic Rinse Peroxyl Alcohol-Free Mild Mint",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "732015"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-43",
+      "id": "43",
+      "description": "",
+      "productName": "Colgate Optic White Professional Touch-Up Kit",
+      "productReference": "",
+      "linkText": "colgate-optic-white-professional-touch-up-kit",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-optic-white-professional-touch-up-kit/p",
+      "categories": [
+        "/Whitening/Take Home/Colgate® Optic White® Professional Touch-Up/",
+        "/Whitening/Take Home/",
+        "/Whitening/"
+      ],
+      "categoryId": "29",
+      "categoriesIds": ["/24/25/29/", "/24/25/", "/24/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 180,
+          "lowPrice": 180
+        },
+        "listPrice": {
+          "highPrice": 180,
+          "lowPrice": 180
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "Meta Data",
+          "name": "Meta Data",
+          "specifications": [
+            {
+              "originalName": "Unit Sold",
+              "name": "Unit Sold",
+              "values": ["6"]
+            },
+            {
+              "originalName": "Size",
+              "name": "Size",
+              "values": ["Full Kit-5 days"]
+            }
+          ]
+        },
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "Unit Sold",
+              "name": "Unit Sold",
+              "values": ["6"]
+            },
+            {
+              "originalName": "Size",
+              "name": "Size",
+              "values": ["Full Kit-5 days"]
+            },
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "Unit Sold",
+          "originalName": "Unit Sold",
+          "values": ["6"]
+        },
+        {
+          "name": "Size",
+          "originalName": "Size",
+          "values": ["Full Kit-5 days"]
+        },
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 180,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 180,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 180,
+                "ListPrice": 180,
+                "spotPrice": 180,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 180,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155471",
+              "cacheId": "155471",
+              "imageTag": "",
+              "imageLabel": "ColgateOpticWhiteProfessionalTouchUpKit",
+              "imageText": "ColgateOpticWhiteProfessionalTouchUpKit",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155471/-Colgate-Optic-White-Professional-Touch-Up-Kit.png?v=1752687606"
+            }
+          ],
+          "itemId": "67",
+          "name": "Colgate Optic White Professional Touch-Up Kit",
+          "nameComplete": "Colgate Optic White Professional Touch-Up Kit",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US04264A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-42",
+      "id": "42",
+      "description": "",
+      "productName": "Colgate Kids Cavity Protection",
+      "linkText": "colgate-kids-cavity-protection",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-kids-cavity-protection/p",
+      "categories": ["/Toothbrushes/Kids & Tweens/", "/Toothbrushes/"],
+      "categoryId": "38",
+      "categoriesIds": ["/5/38/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82.68
+        },
+        "listPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82.68
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 82.68,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 82.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 82.68,
+                "ListPrice": 82.68,
+                "spotPrice": 82.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155470",
+              "cacheId": "155470",
+              "imageTag": "",
+              "imageLabel": "ColgateKidsCavityProtection",
+              "imageText": "ColgateKidsCavityProtection",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155470/Colgate-Kids-Cavity-Protection.png?v=1752687609"
+            }
+          ],
+          "itemId": "66",
+          "name": "Colgate Kids Cavity Protection Toothpaste",
+          "nameComplete": "Colgate Kids Cavity Protection Toothpaste",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "152590"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-24",
+      "id": "24",
+      "description": "",
+      "productName": "PerioGard (Rx) 0.12% Chlorehexidine Gluconate Oral Rinse",
+      "linkText": "periogard",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/periogard/p",
+      "categories": [
+        "/Fluoride & Oral Rinses/by Product/",
+        "/Fluoride & Oral Rinses/"
+      ],
+      "categoryId": "19",
+      "categoriesIds": ["/18/19/", "/18/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 88.68,
+          "lowPrice": 88.68
+        },
+        "listPrice": {
+          "highPrice": 88.68,
+          "lowPrice": 88.68
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 88.68,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 88.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 88.68,
+                "ListPrice": 88.68,
+                "spotPrice": 88.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 88.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155450",
+              "cacheId": "155450",
+              "imageTag": "",
+              "imageLabel": "periogard",
+              "imageText": "periogard",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155450/periogard.png?v=1752687606"
+            }
+          ],
+          "itemId": "38",
+          "name": "PerioGard AF",
+          "nameComplete": "PerioGard (Rx) 0.12% Chlorehexidine Gluconate Oral Rinse PerioGard AF",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US06536A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-22",
+      "id": "22",
+      "description": "",
+      "productName": "Prevident Ortho Defense (Rx) - 1.1% Neutral Sodium Fluoride Toothpaste",
+      "linkText": "prevident-ortho-defense",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/prevident-ortho-defense/p",
+      "categories": [
+        "/Fluoride & Oral Rinses/by Product/Colgate® PreviDent® Series/",
+        "/Fluoride & Oral Rinses/by Product/",
+        "/Fluoride & Oral Rinses/"
+      ],
+      "categoryId": "21",
+      "categoriesIds": ["/18/19/21/", "/18/19/", "/18/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 167.88,
+          "lowPrice": 167.88
+        },
+        "listPrice": {
+          "highPrice": 167.88,
+          "lowPrice": 167.88
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 167.88,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 167.88,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 167.88,
+                "ListPrice": 167.88,
+                "spotPrice": 167.88,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 167.88,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155445",
+              "cacheId": "155445",
+              "imageTag": "",
+              "imageLabel": "defence",
+              "imageText": "defence",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155445/defence.png?v=1752687604"
+            }
+          ],
+          "itemId": "33",
+          "name": "Prevident Ortho Defense - Mild Mint",
+          "nameComplete": "Prevident Ortho Defense (Rx) - 1.1% Neutral Sodium Fluoride Toothpaste Prevident Ortho Defense - Mild Mint",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US05744A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-20",
+      "id": "20",
+      "description": "",
+      "productName": "Prevident Enamel Protect (Rx) - 1.1% Neutral Sodium Fluoride Toothpaste",
+      "linkText": "prevident-enamel-protect",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/prevident-enamel-protect/p",
+      "categories": [
+        "/Fluoride & Oral Rinses/by Product/Colgate® PreviDent® Series/",
+        "/Fluoride & Oral Rinses/by Product/",
+        "/Fluoride & Oral Rinses/"
+      ],
+      "categoryId": "21",
+      "categoriesIds": ["/18/19/21/", "/18/19/", "/18/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 167.88,
+          "lowPrice": 167.88
+        },
+        "listPrice": {
+          "highPrice": 167.88,
+          "lowPrice": 167.88
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 167.88,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 167.88,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 167.88,
+                "ListPrice": 167.88,
+                "spotPrice": 167.88,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 167.88,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155442",
+              "cacheId": "155442",
+              "imageTag": "",
+              "imageLabel": "enamel",
+              "imageText": "enamel",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155442/Enamel.png?v=1752687607"
+            }
+          ],
+          "itemId": "31",
+          "name": "Prevident Enamel Protect",
+          "nameComplete": "Prevident Enamel Protect (Rx) - 1.1% Neutral Sodium Fluoride Toothpaste Prevident Enamel Protect",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US05323A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-15",
+      "id": "15",
+      "description": "",
+      "productName": "Prevident 5000 Booster Plus (Rx) - 1.1% Neutral Sodium Fluoride Toothpaste",
+      "linkText": "prevident-5000-booster-plus",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/prevident-5000-booster-plus/p",
+      "categories": [
+        "/Fluoride & Oral Rinses/by Product/Colgate® PreviDent® Series/",
+        "/Fluoride & Oral Rinses/by Product/",
+        "/Fluoride & Oral Rinses/"
+      ],
+      "categoryId": "21",
+      "categoriesIds": ["/18/19/21/", "/18/19/", "/18/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 167.88,
+          "lowPrice": 167.88
+        },
+        "listPrice": {
+          "highPrice": 167.88,
+          "lowPrice": 167.88
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 167.88,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 167.88,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 167.88,
+                "ListPrice": 167.88,
+                "spotPrice": 167.88,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 167.88,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155435",
+              "cacheId": "155435",
+              "imageTag": "",
+              "imageLabel": "booster",
+              "imageText": "booster",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155435/Prevident-5000-Booster-Plus.png?v=1752687606"
+            }
+          ],
+          "itemId": "24",
+          "name": "PreviDent 5000 Booster Plus-Spearmint",
+          "nameComplete": "Prevident 5000 Booster Plus (Rx) - 1.1% Neutral Sodium Fluoride Toothpaste PreviDent 5000 Booster Plus-Spearmint",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US05326A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 167.88,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 167.88,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 167.88,
+                "ListPrice": 167.88,
+                "spotPrice": 167.88,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 167.88,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155436",
+              "cacheId": "155436",
+              "imageTag": "",
+              "imageLabel": "booster",
+              "imageText": "booster",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155436/Prevident-5000-Booster-Plus.png?v=1752687606"
+            }
+          ],
+          "itemId": "25",
+          "name": "PreviDent 5000 Booster Plus-Fruitastic",
+          "nameComplete": "Prevident 5000 Booster Plus (Rx) - 1.1% Neutral Sodium Fluoride Toothpaste PreviDent 5000 Booster Plus-Fruitastic",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US05324A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-1",
+      "id": "1",
+      "description": "",
+      "productName": "Colgate® Floss",
+      "productReference": "",
+      "linkText": "colgatedentalfloss",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgatedentalfloss/p",
+      "categories": ["/More/Floss/", "/More/"],
+      "categoryId": "4",
+      "categoriesIds": ["/1/4/", "/1/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 32.99,
+          "lowPrice": 32.99
+        },
+        "listPrice": {
+          "highPrice": 32.99,
+          "lowPrice": 32.99
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "Meta Data",
+          "name": "Meta Data",
+          "specifications": [
+            {
+              "originalName": "Unit Sold",
+              "name": "Unit Sold",
+              "values": ["72"]
+            },
+            {
+              "originalName": "Size",
+              "name": "Size",
+              "values": ["3 Yard"]
+            }
+          ]
+        },
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "Unit Sold",
+              "name": "Unit Sold",
+              "values": ["72"]
+            },
+            {
+              "originalName": "Size",
+              "name": "Size",
+              "values": ["3 Yard"]
+            },
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        },
+        {
+          "id": "140",
+          "name": "More To Explore"
+        }
+      ],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "Unit Sold",
+          "originalName": "Unit Sold",
+          "values": ["72"]
+        },
+        {
+          "name": "Size",
+          "originalName": "Size",
+          "values": ["3 Yard"]
+        },
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 32.99,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 32.99,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 32.99,
+                "ListPrice": 32.99,
+                "spotPrice": 32.99,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 32.99,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155397",
+              "cacheId": "155397",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155397/download.png?v=1755176169"
+            },
+            {
+              "imageId": "155487",
+              "cacheId": "155487",
+              "imageTag": "",
+              "imageLabel": "fnp",
+              "imageText": "fnp",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155487/MicrosoftTeams-image--1-.png?v=1755176169"
+            },
+            {
+              "imageId": "155427",
+              "cacheId": "155427",
+              "imageTag": "",
+              "imageLabel": "",
+              "imageText": "",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155427/155397-244-244.png?v=1755176169"
+            },
+            {
+              "imageId": "155426",
+              "cacheId": "155426",
+              "imageTag": "",
+              "imageLabel": "",
+              "imageText": "",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155426/155397-244-244.png?v=1755176169"
+            },
+            {
+              "imageId": "155425",
+              "cacheId": "155425",
+              "imageTag": "",
+              "imageLabel": "",
+              "imageText": "",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155425/155397-244-244.png?v=1755176169"
+            },
+            {
+              "imageId": "155424",
+              "cacheId": "155424",
+              "imageTag": "",
+              "imageLabel": "back",
+              "imageText": "back",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155424/155397-244-244.png?v=1755176169"
+            }
+          ],
+          "itemId": "1",
+          "name": "3 Yard Mint",
+          "nameComplete": "Colgate® Floss 3 Yard Mint",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US07353A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1658102400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-3",
+      "id": "3",
+      "description": "",
+      "productName": "Colgate Hydris Mouthwash*",
+      "productReference": "",
+      "linkText": "colgate-hydris-mouthwash",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-hydris-mouthwash/p",
+      "categories": ["/More/Mouthwash/", "/More/"],
+      "categoryId": "2",
+      "categoriesIds": ["/1/2/", "/1/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 29.94,
+          "lowPrice": 29.94
+        },
+        "listPrice": {
+          "highPrice": 29.94,
+          "lowPrice": 29.94
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        },
+        {
+          "id": "140",
+          "name": "More To Explore"
+        }
+      ],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 29.94,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 29.94,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 29.94,
+                "ListPrice": 29.94,
+                "spotPrice": 29.94,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 29.94,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155400",
+              "cacheId": "155400",
+              "imageTag": "",
+              "imageLabel": "Banner",
+              "imageText": "Banner",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155400/5148ZLsQu5L._AC_SY350_.jpg?v=1754212539"
+            }
+          ],
+          "itemId": "4",
+          "name": "Colgate Hydris Mouthwash*",
+          "nameComplete": "Colgate Hydris Mouthwash*",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US04726A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1658102400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-41",
+      "id": "41",
+      "description": "",
+      "productName": "Colgate Bamboo Charcoal",
+      "linkText": "colgate-bamboo-charcoal",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-bamboo-charcoal/p",
+      "categories": ["/Toothbrushes/Premium/", "/Toothbrushes/"],
+      "categoryId": "39",
+      "categoriesIds": ["/5/39/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        },
+        "listPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": []
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 180,
+                "ListPrice": 180,
+                "spotPrice": 180,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 180,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155469",
+              "cacheId": "155469",
+              "imageTag": "",
+              "imageLabel": "bamboo",
+              "imageText": "bamboo",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155469/Colgate-Bamboo-Charcoal-.png?v=1752687605"
+            }
+          ],
+          "itemId": "65",
+          "name": "Original",
+          "nameComplete": "Colgate Bamboo Charcoal Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "CN07810A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-12",
+      "id": "12",
+      "description": "",
+      "productName": "Colgate Optic White Professional In-office",
+      "productReference": "",
+      "linkText": "colgate-optic-white-professional-in-office",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-optic-white-professional-in-office/p",
+      "categories": [
+        "/Whitening/In Office/Colgate® Optic White® Professional/",
+        "/Whitening/In Office/",
+        "/Whitening/"
+      ],
+      "categoryId": "30",
+      "categoriesIds": ["/24/26/30/", "/24/26/", "/24/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        },
+        "listPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "Description",
+          "name": "Description",
+          "specifications": [
+            {
+              "originalName": "Quantity",
+              "name": "Quantity",
+              "values": ["800"]
+            }
+          ]
+        },
+        {
+          "originalName": "Meta Data",
+          "name": "Meta Data",
+          "specifications": [
+            {
+              "originalName": "Unit Sold",
+              "name": "Unit Sold",
+              "values": ["4"]
+            },
+            {
+              "originalName": "Size",
+              "name": "Size",
+              "values": ["In-Office (30mins)"]
+            }
+          ]
+        },
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "Quantity",
+              "name": "Quantity",
+              "values": ["800"]
+            },
+            {
+              "originalName": "Unit Sold",
+              "name": "Unit Sold",
+              "values": ["4"]
+            },
+            {
+              "originalName": "Size",
+              "name": "Size",
+              "values": ["In-Office (30mins)"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "Quantity",
+          "originalName": "Quantity",
+          "values": ["800"]
+        },
+        {
+          "name": "Unit Sold",
+          "originalName": "Unit Sold",
+          "values": ["4"]
+        },
+        {
+          "name": "Size",
+          "originalName": "Size",
+          "values": ["In-Office (30mins)"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 120,
+                "ListPrice": 120,
+                "spotPrice": 120,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 120,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155430",
+              "cacheId": "155430",
+              "imageTag": "",
+              "imageLabel": "Colgatesmile",
+              "imageText": "Colgatesmile",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155430/colgate-smile-3.jpg?v=1752687603"
+            },
+            {
+              "imageId": "155431",
+              "cacheId": "155431",
+              "imageTag": "",
+              "imageLabel": "Colgatefeature",
+              "imageText": "Colgatefeature",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155431/colgate-featured.jpg?v=1752687603"
+            }
+          ],
+          "itemId": "40",
+          "name": "Colgate Optic White® Professional In Office 10%",
+          "nameComplete": "Colgate Optic White Professional In-office Colgate Optic White® Professional In Office 10%",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "61020117"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-39",
+      "id": "39",
+      "description": "",
+      "productName": "Colgate® Wave™ Gum Comfort",
+      "linkText": "colgate-wave-gum-comfort",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-wave-gum-comfort/p",
+      "categories": ["/Toothbrushes/Classic/", "/Toothbrushes/"],
+      "categoryId": "37",
+      "categoriesIds": ["/5/37/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        },
+        "listPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": []
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 82.68,
+                "ListPrice": 82.68,
+                "spotPrice": 82.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155468",
+              "cacheId": "155468",
+              "imageTag": "",
+              "imageLabel": "gumi",
+              "imageText": "gumi",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155468/Colgate-Wave-Gum-Comfort.png?v=1752687606"
+            }
+          ],
+          "itemId": "62",
+          "name": "Imprinted",
+          "nameComplete": "Colgate® Wave™ Gum Comfort Imprinted",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731057"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 82.68,
+                "ListPrice": 82.68,
+                "spotPrice": 82.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155467",
+              "cacheId": "155467",
+              "imageTag": "",
+              "imageLabel": "gum",
+              "imageText": "gum",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155467/Colgate-Wave-Gum-Comfort.png?v=1752687606"
+            }
+          ],
+          "itemId": "61",
+          "name": "Original",
+          "nameComplete": "Colgate® Wave™ Gum Comfort Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731060"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-36",
+      "id": "36",
+      "description": "",
+      "productName": "Colgate® SlimSoft™ Compact Head",
+      "linkText": "colgate-slimsoft-compact-head",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-slimsoft-compact-head/p",
+      "categories": ["/Toothbrushes/Premium/", "/Toothbrushes/"],
+      "categoryId": "39",
+      "categoriesIds": ["/5/39/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        },
+        "listPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": []
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 100.68,
+                "ListPrice": 100.68,
+                "spotPrice": 100.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 100.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155478",
+              "cacheId": "155478",
+              "imageTag": "",
+              "imageLabel": "SlimSofto",
+              "imageText": "SlimSofto",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155478/Colgate-SlimSoft-Compact-Head.jpg?v=1752687606"
+            }
+          ],
+          "itemId": "56",
+          "name": "Original",
+          "nameComplete": "Colgate® SlimSoft™ Compact Head Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731066"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 0,
+                "ListPrice": 0,
+                "spotPrice": 0,
+                "taxPercentage": null,
+                "PriceWithoutDiscount": 0,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155479",
+              "cacheId": "155479",
+              "imageTag": "",
+              "imageLabel": "SlimSofti",
+              "imageText": "SlimSofti",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155479/Colgate-SlimSoft-Compact-Head.jpg?v=1752687606"
+            }
+          ],
+          "itemId": "57",
+          "name": "Imprinted",
+          "nameComplete": "Colgate® SlimSoft™ Compact Head Imprinted",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731067"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-35",
+      "id": "35",
+      "description": "",
+      "productName": "Colgate Kids Unicorns",
+      "linkText": "colgate-kids-unicorns",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-kids-unicorns/p",
+      "categories": ["/Toothbrushes/Kids & Tweens/", "/Toothbrushes/"],
+      "categoryId": "38",
+      "categoriesIds": ["/5/38/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        },
+        "listPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": []
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 100.68,
+                "ListPrice": 100.68,
+                "spotPrice": 100.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 100.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155462",
+              "cacheId": "155462",
+              "imageTag": "",
+              "imageLabel": "Unicorns",
+              "imageText": "Unicorns",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155462/Unicorns.png?v=1752687605"
+            }
+          ],
+          "itemId": "55",
+          "name": "Original",
+          "nameComplete": "Colgate Kids Unicorns Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "US06836A"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-34",
+      "id": "34",
+      "description": "",
+      "productName": "Colgate Kids My First",
+      "linkText": "colgate-kids-my-first",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-kids-my-first/p",
+      "categories": ["/Toothbrushes/Kids & Tweens/", "/Toothbrushes/"],
+      "categoryId": "38",
+      "categoriesIds": ["/5/38/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        },
+        "listPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": []
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 100.68,
+                "ListPrice": 100.68,
+                "spotPrice": 100.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 100.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155461",
+              "cacheId": "155461",
+              "imageTag": "",
+              "imageLabel": "MyFirst",
+              "imageText": "MyFirst",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155461/Colgate-Kids-My-First.png?v=1752687604"
+            }
+          ],
+          "itemId": "54",
+          "name": "Original",
+          "nameComplete": "Colgate Kids My First Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "312942"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-33",
+      "id": "33",
+      "description": "",
+      "productName": "Colgate® Kids Minions™",
+      "linkText": "colgate-kids-minions",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-kids-minions/p",
+      "categories": ["/Toothbrushes/Kids & Tweens/", "/Toothbrushes/"],
+      "categoryId": "38",
+      "categoriesIds": ["/5/38/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        },
+        "listPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": []
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 100.68,
+                "ListPrice": 100.68,
+                "spotPrice": 100.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 100.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155460",
+              "cacheId": "155460",
+              "imageTag": "",
+              "imageLabel": "Minions",
+              "imageText": "Minions",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155460/Colgate-Kids-Minions.png?v=1752687604"
+            }
+          ],
+          "itemId": "53",
+          "name": "Original",
+          "nameComplete": "Colgate® Kids Minions™ Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "156225"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    },
+    {
+      "cacheId": "sp-32",
+      "id": "32",
+      "description": "",
+      "productName": "Colgate Kids Mermaid",
+      "linkText": "colgate-kids-mermaid",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-kids-mermaid/p",
+      "categories": ["/Toothbrushes/Kids & Tweens/", "/Toothbrushes/"],
+      "categoryId": "38",
+      "categoriesIds": ["/5/38/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        },
+        "listPrice": {
+          "highPrice": 0,
+          "lowPrice": null
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [],
+      "clusterHighlights": [],
+      "properties": [
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": false,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 0,
+                "discountHighlights": [],
+                "Installments": [],
+                "Price": 0,
+                "ListPrice": 0,
+                "spotPrice": 0,
+                "taxPercentage": null,
+                "PriceWithoutDiscount": 0,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155459",
+              "cacheId": "155459",
+              "imageTag": "",
+              "imageLabel": "Mermaid",
+              "imageText": "Mermaid",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155459/-Colgate-Kids-Mermaid.png?v=638006487438430000"
+            }
+          ],
+          "itemId": "52",
+          "name": "Original",
+          "nameComplete": "Colgate Kids Mermaid Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "61028349"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    }
+  ],
+  "Recentlyviewed": [
+    {
+      "cacheId": "sp-8",
+      "id": "8",
+      "description": "",
+      "productName": "Colgate Junior",
+      "productReference": "",
+      "linkText": "colgate-junior",
+      "brand": "Colgate",
+      "brandId": 2000000,
+      "link": "/colgate-junior/p",
+      "categories": ["/Toothbrushes/Kids & Tweens/", "/Toothbrushes/"],
+      "categoryId": "38",
+      "categoriesIds": ["/5/38/", "/5/"],
+      "priceRange": {
+        "sellingPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82
+        },
+        "listPrice": {
+          "highPrice": 82.68,
+          "lowPrice": 82
+        }
+      },
+      "specificationGroups": [
+        {
+          "originalName": "Description",
+          "name": "Description",
+          "specifications": [
+            {
+              "originalName": "Quantity",
+              "name": "Quantity",
+              "values": ["50"]
+            }
+          ]
+        },
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "Quantity",
+              "name": "Quantity",
+              "values": ["50"]
+            },
+            {
+              "originalName": "sellerId",
+              "name": "sellerId",
+              "values": ["1"]
+            }
+          ]
+        }
+      ],
+      "skuSpecifications": [],
+      "productClusters": [
+        {
+          "id": "138",
+          "name": "Sale"
+        },
+        {
+          "id": "139",
+          "name": "Our Innovative Products"
+        }
+      ],
+      "clusterHighlights": [
+        {
+          "id": "138",
+          "name": "Sale"
+        }
+      ],
+      "properties": [
+        {
+          "name": "Quantity",
+          "originalName": "Quantity",
+          "values": ["50"]
+        },
+        {
+          "name": "sellerId",
+          "originalName": "sellerId",
+          "values": ["1"]
+        }
+      ],
+      "items": [
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 82.68,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 82.68,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 82.68,
+                "ListPrice": 82.68,
+                "spotPrice": 82.68,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82.68,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155410",
+              "cacheId": "155410",
+              "imageTag": "",
+              "imageLabel": "Front",
+              "imageText": "Front",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155410/juniorbrush.jpg?v=1752687606"
+            }
+          ],
+          "itemId": "12",
+          "name": "Original",
+          "nameComplete": "Colgate Junior Original",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731011"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        },
+        {
+          "sellers": [
+            {
+              "sellerId": "1",
+              "sellerName": "COLGATE-PALMOLIVE COMPANY",
+              "addToCartLink": "",
+              "sellerDefault": true,
+              "commertialOffer": {
+                "DeliverySlaSamplesPerRegion": {},
+                "DeliverySlaSamples": [],
+                "AvailableQuantity": 10000,
+                "discountHighlights": [],
+                "Installments": [
+                  {
+                    "Value": 82,
+                    "InterestRate": 0,
+                    "TotalValuePlusInterestRate": 82,
+                    "NumberOfInstallments": 1,
+                    "Name": "",
+                    "PaymentSystemName": "",
+                    "PaymentSystemGroupName": ""
+                  }
+                ],
+                "Price": 82,
+                "ListPrice": 82,
+                "spotPrice": 82,
+                "taxPercentage": 0,
+                "PriceWithoutDiscount": 82,
+                "Tax": 0,
+                "GiftSkuIds": [],
+                "BuyTogether": [],
+                "ItemMetadataAttachment": [],
+                "RewardValue": 0,
+                "PriceValidUntil": "",
+                "GetInfoErrorMessage": null,
+                "CacheVersionUsedToCallCheckout": "",
+                "teasers": []
+              }
+            }
+          ],
+          "images": [
+            {
+              "imageId": "155410",
+              "cacheId": "155410",
+              "imageTag": "",
+              "imageLabel": "",
+              "imageText": "",
+              "imageUrl": "https://colgateb2b.vtexassets.com/arquivos/ids/155410/juniorbrush.jpg?v=1752687606"
+            }
+          ],
+          "itemId": "13",
+          "name": "Imprinted",
+          "nameComplete": "Colgate Junior Imprinted",
+          "complementName": "",
+          "referenceId": [
+            {
+              "Key": "RefId",
+              "Value": "731012"
+            }
+          ],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "variations": [
+            {
+              "name": "activeSubscriptions",
+              "values": ["colgate-sample-subscription"]
+            }
+          ],
+          "ean": "",
+          "modalType": "",
+          "videos": [],
+          "attachments": [],
+          "isKit": false,
+          "activeSubscriptions": ["colgate-sample-subscription"]
+        }
+      ],
+      "rule": null,
+      "releaseDate": 1660694400000,
+      "origin": "intelligent-search"
+    }
+  ]
+}
